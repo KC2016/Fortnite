@@ -1,9 +1,9 @@
 
-# Fortnite
-Does make difference to play high and sober?
+# Fortnite - Games
+Does make difference to play high or sober?
 
 <p align="center">
-<img src = "images/dashboard_weekdays.png"  width=200> <img src = "images/dashboard_time.png"  width=200>  <br/> 
+<img src = "images/dashboard_weekdays.png"  width=150> <img src = "images/dashboard_time.png"  width=150>  <br/> 
 <p>
 
 
@@ -88,4 +88,7 @@ Structures are buildings constructed by players in Fortnite. Structures are Craf
 
 [Dashboard2](https://public.tableau.com/profile/karina.condeixa#!/vizhome/Fortnite_1_Dashoboard2/Dashboard2?publish=yes)
 
+## References:</br>
+
+[icons](https://thenounproject.com/)
 
