@@ -1,6 +1,6 @@
 
 # Fortnite - Games (IN DEVELOPMENT)
-## How marijuana affect performance in Fortnite?
+## How does marijuana affect performance in Fortnite?
 
 <p align="center">
 <img src = "images/dashboard_weekdays.png"  width=150> <img src = "images/dashboard_time.png"  width=150>  <br/> 
@@ -8,7 +8,7 @@
 
 ### The Dataset
 This is a collection of my fortnite statistics over an 80 game collection period. Data were surveyed to looking for possible conclusions when it comes to sobriety and specific statistics in game (i.e. does sobriety make me more accurate).
-The data was collected by Kristian Reynolds taking pictures of my end game stats and collecting manually.
+The data was collected by Kristian Reynolds taking pictures of his end game stats and collecting manually.
 [Source](https://data.world/kreynol3/fortnite-statistics80-games)
 
 ### Features:
@@ -48,7 +48,7 @@ Hit a shot.
 [Source](https://www.dailyesports.gg/fortnite-terminology-and-communication-terms-to-know/)</br></br>
 
 #### Head Shots
-If the Damage Number is yellow, it means you've hit a critical shot. It's actually the only way to know if you've done a headshot! Check Out Tips to Improve Your Aim.
+"If the Damage Number is yellow, it means you've hit a critical shot. It's actually the only way to know if you've done a headshot! Check Out Tips to Improve Your Aim."
 [Source](https://gamewith.net/fortnite/article/show/182#:~:text=Check%20for%20Headshots,Tips%20to%20Improve%20Your%20Aim)</br></br>
 
 
