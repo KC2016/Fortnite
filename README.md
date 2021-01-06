@@ -1,5 +1,11 @@
 
 # Fortnite
+Does make difference to play high and sober?
+
+<p align="center">
+<img src = "images/dashboard_weekdays.png"  width=200> <img src = "images/dashboard_time.png"  width=200>  <br/> 
+<p>
+
 
 ## The Dataset
 This is a collection of my fortnite statistics over an 80 game collection period. I am looking for possible conclusions when it comes to sobriety and specific statistics in game. (i.e. does sobriety make me more accurate). Any data analysis would be much appreciated!
@@ -56,7 +62,7 @@ Distance traveled in meters.</br></br>
 The available materials in Battle Royale are wood, brick, and metal. You can also obtain materials from chests and by killing opennets.
 [Source](https://fortnite.fandom.com/wiki/Materials#:~:text=The%20available%20materials%20in%20Battle,chests%20and%20by%20killing%20opennets)</br>
 
-The trick to gathering items like Wood, Metal, and Stone is to time your swings. Early on in the game, players unlock a skill that allows them to hit a critical point on any item that they swing at with their pickaxe. When hit, this critical area causes the item to decay faster.Aug 1, 2017
+The trick to gathering items like Wood, Metal, and Stone is to time your swings. Early on in the game, players unlock a skill that allows them to hit a critical point on any item that they swing at with their pickaxe. When hit, this critical area causes the item to decay faster.Aug 1, 2017.
 [Source](https://primagames.com/tips/fortnite-how-gather-materials-quickly#:~:text=The%20trick%20to%20gathering%20items,the%20item%20to%20decay%20faster)</br></br>
 
 
@@ -67,14 +73,13 @@ The trick to gathering items like Wood, Metal, and Stone is to time your swings.
 Damage Dealt to the enemy, including:
 1) Damage to Health
 2) Damage to Shields
-3) Critical Hit / Headshot
+3) Critical Hit / Headshot</br>
 [Source](https://gamewith.net/fortnite/article/show/182)</br></br>
 
 
 ### Damage to Structures
 Structures are buildings constructed by players in Fortnite. Structures are Crafted from harvested Materials. While any Character may construct a Structure, Constructors do so most efficiently. Structures are useful for sheltering from Husks.
 [Source](https://www.ign.com/wikis/fortnite/Structures)</br></br>
-
 
 
 ## Published at:</br>
