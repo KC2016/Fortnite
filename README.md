@@ -59,7 +59,7 @@ Distance traveled in meters.</br></br>
 
 #### Materials Used
 
-"he available materials in Battle Royale are wood, brick, and metal. You can also obtain materials from chests and by killing opennets."
+"The available materials in Battle Royale are wood, brick, and metal. You can also obtain materials from chests and by killing opennets."
 [Source](https://fortnite.fandom.com/wiki/Materials#:~:text=The%20available%20materials%20in%20Battle,chests%20and%20by%20killing%20opennets)</br>
 
 "The trick to gathering items like Wood, Metal, and Stone is to time your swings. Early on in the game, players unlock a skill that allows them to hit a critical point on any item that they swing at with their pickaxe. When hit, this critical area causes the item to decay faster."
@@ -84,7 +84,7 @@ Distance traveled in meters.</br></br>
 ## Exploratory Analysis
 
 - sum of eliminated and sum of placed per time day.
-- sums of materials used, headshot, distnace traveled, damage to player, damage to player, damage taken, and assists and accuracy, per mental state.
+- sums of materials used, headshot, distance traveled, damage to player, damage to player, damage taken, and assists and accuracy, per mental state.
 - compares accuracy, distance traveled, revives, assists, and material used with damage taken, damage to structure, eliminations and placed.
 
 
