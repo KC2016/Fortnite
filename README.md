@@ -1,9 +1,9 @@
 
-# Fortnite - Games (IN DEVELOPMENT)
+# Fortnite - Games
 ## How does marijuana affect performance in Fortnite?
 
 <p align="center">
-<img src = "images/dashboard_weekdays.png"  width=150> <img src = "images/dashboard_time.png"  width=150>  <br/> 
+<img src = "images/dashboard_weekdays.png"  width=150> <img src = "images/dashboard_time.png"  width=150>  <br/>
 <p>
 
 ### The Dataset
@@ -30,10 +30,10 @@ The data was collected by Kristian Reynolds taking pictures of his end game stat
 
 
 #### Assists
-"What is aim assist?
-Featured snippet from the web
-Aim assist in the crosshairs. Aim assist is a feature enabled for players who use controllers — as opposed to a mouse and a keyboard — that helps guide the crosshairs toward opponents automatically."
-[Source](https://www.washingtonpost.com/video-games/esports/2020/10/16/aim-assist-debate/#:~:text=Aim%20assist%20in%20the%20crosshairs&text=Aim%20assist%20is%20a%20feature,the%20crosshairs%20toward%20opponents%20automatically)</br></br>
+"Aim Assist is a gameplay mechanic in Fortnite for controller players. The purpose/goal of Aim Assist is of course, to help Controller players aim better. This only applies to P.C Controller players. As of right now, the changes affect Battle Royale, Creative and Save the World"
+[Source](https://fortnite.fandom.com/wiki/Aim_Assist)
+"Aim assist in a first-person shooter game is basically a feature that helps players line up shots more easily. When a player aims, the software automatically adjusts the crosshair to where the game thinks it’s supposed to be."
+[Source](https://www.sportskeeda.com/esports/fortnite-aim-assist-number-one-reason-pros-leaving-game#:~:text=Aim%20assist%20in%20a%20first,thinks%20it's%20supposed%20to%20be.)</br></br>
 
 #### Revives
 "To revive downed allies, a player must stand near one, point the aiming reticule and hold down the action button for 10 seconds without being eliminated."
